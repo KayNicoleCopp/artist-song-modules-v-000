@@ -20,10 +20,6 @@ class Song
     @@songs
   end
 
-  #def self.count
-    #self.all.count
-  #end
-
   def artist=(artist)
     @artist = artist
   end
